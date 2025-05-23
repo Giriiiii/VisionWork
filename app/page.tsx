@@ -27,9 +27,9 @@ const services = [
   },
   {
     icon: "/images/s_5.png",
-    title: "Content Creation",
+    title: "AI Automation",
     description:
-      "Boost your brand's online presence with our social media marketing services",
+      "Automate tasks and save time with smart AI workflows tailored to your business.",
   },
   {
     icon: "/images/s_3.png",
