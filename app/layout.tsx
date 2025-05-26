@@ -8,6 +8,9 @@ const font = Space_Grotesk({ subsets: ["latin"] });
 export const metadata: Metadata = {
   title: "VisionWork | Design & Development Studio",
   description: "Grow your business VisionWork, a design & development studio.",
+  icons: {
+    icon: "/favicon.ico",
+  },
   openGraph: {
     images: [
       {
